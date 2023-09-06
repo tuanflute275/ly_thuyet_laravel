@@ -136,7 +136,7 @@ app.blade.php
 
         <style>
             .active {
-                color: red !impotant;
+                color: red !important;
             }
         </style>
     </head>
